@@ -16,12 +16,13 @@ Hey! My name is Bruno, call me <strong>Smok</strong>, and i'm a <strong> Softwar
 <img src="https://img.shields.io/badge/css3-%23000000.svg?style=for-the-badge&logo=css3&logoColor=5d03c5"/>
 <img src="https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=5d03c5"/>
 
-<h2> ## 🧠 Let's Connect! 🧠 </h2>
-<a href="https://www.linkedin.com/in/brunosmok/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=5d03c5"/></a>
-<a href="mailto:bsmok.dev@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-%23000000?style=for-the-badge&logo=gmail&logoColor=5d03c5"/></a>
-
 <h2> ## 📚 Currently studying 📚 </h2>
 <img src="https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=5d03c5"/>
 <img src="https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=5d03c5"/>
 <img src="https://img.shields.io/badge/git-%23000000.svg?style=for-the-badge&logo=git&logoColor=5d03c5"/>
+
+<h2> ## 🧠 Let's Connect! 🧠 </h2>
+<a href="https://www.linkedin.com/in/brunosmok/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%23000000?style=for-the-badge&logo=linkedin&logoColor=5d03c5"/></a>
+<a href="mailto:bsmok.dev@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-%23000000?style=for-the-badge&logo=gmail&logoColor=5d03c5"/></a>
+
 </div>
