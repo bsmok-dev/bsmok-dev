@@ -8,7 +8,7 @@ Hey! My name is Bruno, call me <strong>Smok</strong>, and i'm a <strong> Softwar
 
 <img src="https://media.tenor.com/hMQgeiW1JsYAAAAj/shiny-gengar-ig.gif" />
 
-![Bruno Smok's GitHub stats](https://github-stats-extended.vercel.app/api?username=bsmok-dev&show_icons=true&include_all_commits=true&theme=midnight-purple)
+![Bruno Smok's GitHub stats](https://github-stats-extended.vercel.app/api?username=brunosmok&show_icons=true&include_all_commits=true&theme=midnight-purple)
 
 
 <h2> ## 🔗 Tech Stack 🔗 </h2>
